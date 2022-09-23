@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HCE Test</string>
+    <string name="servicedesc">hce test</string>
+    <string name="aiddescription">T-money</string>
+</resources>
